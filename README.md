@@ -7,3 +7,4 @@ Bem-vindo(a) ao $\color{#30c8d9}{\textsf{Desafios da CodeLab}}$! Este é um repo
 | Status | Desafio | Nome |                        Deploy                        |   Tecnologias  | 
 | :----: | :-----: | :--: | :-------------------------------------------------: | :---------------:|
 |   ✅   |   01    | Blog | [Acessar](https://blog-desafioscodelab.vercel.app/) | HTML, CSS e JavaScript |
+|   ✅   |   02    | JordanShoes | [Acessar](https://jordanshoes-desafioscodelab.vercel.app/) | HTML, CSS e JavaScript |
